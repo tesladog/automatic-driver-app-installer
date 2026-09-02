@@ -3,7 +3,7 @@
     "Name": "Dell Command | Update",
     "Id": "Dell.CommandUpdate",
     "LocalFile": "Dell Command Update (2026-09-02).exe",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://dl.dell.com/FOLDER14424601M/1/Dell-Command-Update-Windows-Universal-Application_FGK9X_WIN64_5.7.0_A00.EXE",
     "Manufacturer": "Dell",
     "MatchKeys": ["Dell Command", "SupportAssist"],
     "MatchPaths": ["C:\\Program Files\\Dell", "C:\\Program Files (x86)\\Dell"]
@@ -30,7 +30,7 @@
     "Name": "HP Image Assistant (Enterprise)",
     "Id": "HP.ImageAssistant",
     "LocalFile": "HP Image Assistant Enterprise (2026-09-02).exe",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://hpia.hpcloud.hp.com/downloads/hpia/hp-hpia.exe",
     "Manufacturer": "Hewlett-Packard|HP",
     "MatchKeys": ["HP Image Assistant", "HIA"],
     "MatchPaths": ["C:\\Program Files\\HP\\Image Assistant"]
@@ -39,7 +39,7 @@
     "Name": "Lenovo System Update",
     "Id": "Lenovo.SystemUpdate",
     "LocalFile": "Lenovo System Update (2026-09-02).exe",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.03.exe",
     "Manufacturer": "Lenovo",
     "MatchKeys": ["Lenovo System Update"],
     "MatchPaths": ["C:\\Program Files\\Lenovo\\System Update", "C:\\Program Files (x86)\\Lenovo\\System Update"]
@@ -93,7 +93,7 @@
     "Name": "Intel Driver & Support Assistant (DSA)",
     "Id": "Intel.IntelDriverAndSupportAssistant",
     "LocalFile": "Intel Driver & Support Assistant (2026-09-02).exe",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://downloadmirror.intel.com/796792/Intel-Driver-and-Support-Assistant-Installer.exe",
     "ProcessorMatch": "Intel",
     "MatchKeys": ["Intel Driver & Support Assistant"],
     "MatchPaths": ["C:\\Program Files\\Intel\\Intel(R) Driver & Support Assistant"]
@@ -111,7 +111,7 @@
     "Name": "AMD Cleanup Utility",
     "Id": "AMD.AMDCleanUpUtility",
     "LocalFile": "AMD Cleanup Utility (2026-09-02).exe",
-    "DownloadUrl": "",
+    "DownloadUrl": "https://www2.ati.com/drivers/amdclearnuputility.exe",
     "ProcessorMatch": "AMD",
     "MatchKeys": ["AMD Software", "AMD Cleanup Utility"],
     "MatchPaths": ["C:\\Program Files\\AMD"]

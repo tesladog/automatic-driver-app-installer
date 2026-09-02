@@ -98,7 +98,7 @@
     "MatchKeys": ["Intel Driver & Support Assistant"],
     "MatchPaths": ["C:\\Program Files\\Intel\\Intel(R) Driver & Support Assistant"]
   },
-{
+  {
     "Name": "NVIDIA App",
     "Id": "NVIDIA.NVIDIAApp",
     "LocalFile": "NVIDIA.App.2026-09-02.exe",
@@ -106,7 +106,7 @@
     "VideoMatch": "NVIDIA|GeForce",
     "MatchKeys": ["NVIDIA App", "GeForce Experience"],
     "MatchPaths": ["C:\\Program Files\\NVIDIA Corporation"]
-  }
+  },
   {
     "Name": "AMD Cleanup Utility",
     "Id": "AMD.AMDCleanUpUtility",

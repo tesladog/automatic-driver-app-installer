@@ -1,0 +1,1 @@
+this folder contains backup installers for the script incase winget fails to find a install package 

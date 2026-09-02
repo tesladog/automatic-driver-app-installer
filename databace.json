@@ -3,6 +3,7 @@
     "Name": "Dell Command | Update",
     "Id": "Dell.CommandUpdate",
     "LocalFile": "Dell Command Update (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Dell",
     "MatchKeys": ["Dell Command", "SupportAssist"],
     "MatchPaths": ["C:\\Program Files\\Dell", "C:\\Program Files (x86)\\Dell"]
@@ -11,6 +12,7 @@
     "Name": "Dell SupportAssist for PCs",
     "Id": "Dell.SupportAssistForPCs",
     "LocalFile": "Dell SupportAssist for PCs (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Dell",
     "MatchKeys": ["SupportAssist for PCs"],
     "MatchPaths": ["C:\\Program Files\\Dell\\SupportAssist"]
@@ -19,6 +21,7 @@
     "Name": "HP Support Assistant",
     "Id": "HPSupportAssistant.HPSupportAssistant",
     "LocalFile": "HP Support Assistant (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Hewlett-Packard|HP",
     "MatchKeys": ["HP Support Assistant", "HP Support Solutions Framework"],
     "MatchPaths": ["C:\\Program Files (x86)\\Hewlett-Packard\\HP Support Framework", "C:\\Program Files (x86)\\HP\\HP Support Framework"]
@@ -27,6 +30,7 @@
     "Name": "HP Image Assistant (Enterprise)",
     "Id": "HP.ImageAssistant",
     "LocalFile": "HP Image Assistant Enterprise (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Hewlett-Packard|HP",
     "MatchKeys": ["HP Image Assistant", "HIA"],
     "MatchPaths": ["C:\\Program Files\\HP\\Image Assistant"]
@@ -35,6 +39,7 @@
     "Name": "Lenovo System Update",
     "Id": "Lenovo.SystemUpdate",
     "LocalFile": "Lenovo System Update (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Lenovo",
     "MatchKeys": ["Lenovo System Update"],
     "MatchPaths": ["C:\\Program Files\\Lenovo\\System Update", "C:\\Program Files (x86)\\Lenovo\\System Update"]
@@ -43,6 +48,7 @@
     "Name": "Lenovo Vantage",
     "Id": "Lenovo.Vantage",
     "LocalFile": "Lenovo Vantage (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Lenovo",
     "MatchKeys": ["Lenovo Vantage"],
     "MatchPaths": ["C:\\Program Files\\Lenovo\\LenovoVantage"]
@@ -51,6 +57,7 @@
     "Name": "ASUS Armoury Crate / MyASUS",
     "Id": "9NZVWSKJP0VN",
     "LocalFile": "ASUS MyASUS (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "ASUS|ASUSTeK",
     "MatchKeys": ["MyASUS", "Armoury Crate"],
     "MatchPaths": ["C:\\Program Files\\ASUS"]
@@ -59,6 +66,7 @@
     "Name": "Acer Care Center",
     "Id": "Acer.CareCenter",
     "LocalFile": "Acer Care Center (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Acer",
     "MatchKeys": ["Acer Care Center"],
     "MatchPaths": ["C:\\Program Files\\Acer\\Care Center"]
@@ -67,6 +75,7 @@
     "Name": "MSI Center",
     "Id": "9NVM0M9W3Z00",
     "LocalFile": "MSI Center (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Micro-Star International|MSI",
     "MatchKeys": ["MSI Center", "Dragon Center"],
     "MatchPaths": ["C:\\Program Files\\MSI"]
@@ -75,6 +84,7 @@
     "Name": "Microsoft Surface app",
     "Id": "9WZDNCRFJ3RS",
     "LocalFile": "Microsoft Surface app (2026-09-02).exe",
+    "DownloadUrl": "",
     "Manufacturer": "Microsoft Corporation",
     "MatchKeys": ["Surface", "Surface Hub"],
     "MatchPaths": ["C:\\Program Files\\Microsoft Surface"]
@@ -83,6 +93,7 @@
     "Name": "Intel Driver & Support Assistant (DSA)",
     "Id": "Intel.IntelDriverAndSupportAssistant",
     "LocalFile": "Intel Driver & Support Assistant (2026-09-02).exe",
+    "DownloadUrl": "",
     "ProcessorMatch": "Intel",
     "MatchKeys": ["Intel Driver & Support Assistant"],
     "MatchPaths": ["C:\\Program Files\\Intel\\Intel(R) Driver & Support Assistant"]
@@ -91,6 +102,7 @@
     "Name": "NVIDIA App",
     "Id": "NVIDIA.NVIDIAApp",
     "LocalFile": "NVIDIA App (2026-09-02).exe",
+    "DownloadUrl": "https://us.download.nvidia.com/NVApp/client/11.0.2.145/NVIDIA_App_Installer.exe",
     "VideoMatch": "NVIDIA|GeForce",
     "MatchKeys": ["NVIDIA App", "GeForce Experience"],
     "MatchPaths": ["C:\\Program Files\\NVIDIA Corporation"]
@@ -99,6 +111,7 @@
     "Name": "AMD Cleanup Utility",
     "Id": "AMD.AMDCleanUpUtility",
     "LocalFile": "AMD Cleanup Utility (2026-09-02).exe",
+    "DownloadUrl": "",
     "ProcessorMatch": "AMD",
     "MatchKeys": ["AMD Software", "AMD Cleanup Utility"],
     "MatchPaths": ["C:\\Program Files\\AMD"]
@@ -107,6 +120,7 @@
     "Name": "AMD Software: Adrenalin Edition",
     "Id": "AMD.AMDSoftwareAdrenalinEdition",
     "LocalFile": "AMD Software Adrenalin (2026-09-02).exe",
+    "DownloadUrl": "",
     "VideoMatch": "AMD|Radeon",
     "MatchKeys": ["AMD Software", "Adrenalin"],
     "MatchPaths": ["C:\\Program Files\\AMD\\CIM"]

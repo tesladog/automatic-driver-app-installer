@@ -2,8 +2,8 @@
   {
     "Name": "Dell Command | Update",
     "Id": "Dell.CommandUpdate",
-    "LocalFile": "Dell Command Update (2026-09-02).exe",
-    "DownloadUrl": "https://dl.dell.com/FOLDER14424601M/1/Dell-Command-Update-Windows-Universal-Application_FGK9X_WIN64_5.7.0_A00.EXE",
+    "LocalFile": "Dell-Command-Update.2026-9-2.EXE",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/Dell-Command-Update.2026-9-2.EXE",
     "Manufacturer": "Dell",
     "MatchKeys": ["Dell Command", "SupportAssist"],
     "MatchPaths": ["C:\\Program Files\\Dell", "C:\\Program Files (x86)\\Dell"]
@@ -18,10 +18,19 @@
     "MatchPaths": ["C:\\Program Files\\Dell\\SupportAssist"]
   },
   {
+    "Name": "Alienware Command Center",
+    "Id": "Dell.AlienwareCommandCenter",
+    "LocalFile": "Alienware-Command-Center.2026-9-2.EXE",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/Alienware-Command-Center.2026-9-2.EXE",
+    "Manufacturer": "Alienware|Dell",
+    "MatchKeys": ["Alienware Command Center", "AWCC"],
+    "MatchPaths": ["C:\\Program Files\\Alienware"]
+  },
+  {
     "Name": "HP Support Assistant",
     "Id": "HPSupportAssistant.HPSupportAssistant",
-    "LocalFile": "HP Support Assistant (2026-09-02).exe",
-    "DownloadUrl": "",
+    "LocalFile": "HP.support.2026-9-2.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/HP.support.2026-9-2.exe",
     "Manufacturer": "Hewlett-Packard|HP",
     "MatchKeys": ["HP Support Assistant", "HP Support Solutions Framework"],
     "MatchPaths": ["C:\\Program Files (x86)\\Hewlett-Packard\\HP Support Framework", "C:\\Program Files (x86)\\HP\\HP Support Framework"]
@@ -38,8 +47,8 @@
   {
     "Name": "Lenovo System Update",
     "Id": "Lenovo.SystemUpdate",
-    "LocalFile": "Lenovo System Update (2026-09-02).exe",
-    "DownloadUrl": "https://download.lenovo.com/pccbbs/thinkvantage_en/system_update_5.07.03.exe",
+    "LocalFile": "Lenovo.System.Update.2026-9-2.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/Lenovo.System.Update.2026-9-2.exe",
     "Manufacturer": "Lenovo",
     "MatchKeys": ["Lenovo System Update"],
     "MatchPaths": ["C:\\Program Files\\Lenovo\\System Update", "C:\\Program Files (x86)\\Lenovo\\System Update"]
@@ -81,6 +90,32 @@
     "MatchPaths": ["C:\\Program Files\\MSI"]
   },
   {
+    "Name": "Gigabyte Control Center",
+    "Id": "GIGABYTE.ControlCenter",
+    "LocalFile": "GIGABYTE.Control.Center.2026-9-2.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/GIGABYTE.Control.Center.2026-9-2.exe",
+    "Manufacturer": "Gigabyte|GIGABYTE",
+    "MatchKeys": ["Gigabyte Control Center", "GCC"],
+    "MatchPaths": ["C:\\Program Files\\GIGABYTE"]
+  },
+  {
+    "Name": "Razer Synapse",
+    "Id": "Razer.Synapse",
+    "LocalFile": "RazerSynapse.2026-9-2.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/RazerSynapse.2026-9-2.exe",
+    "Manufacturer": "Razer",
+    "MatchKeys": ["Razer Synapse"],
+    "MatchPaths": ["C:\\Program Files\\Razer"]
+  },
+  {
+    "Name": "Logitech G HUB",
+    "Id": "Logitech.GHUB",
+    "LocalFile": "lghub_installer.2026-9-2.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/lghub_installer.2026-9-2.exe",
+    "MatchKeys": ["Logitech G HUB", "LGHUB"],
+    "MatchPaths": ["C:\\Program Files\\Logitech\\LGHUB"]
+  },
+  {
     "Name": "Microsoft Surface app",
     "Id": "9WZDNCRFJ3RS",
     "LocalFile": "Microsoft Surface app (2026-09-02).exe",
@@ -92,8 +127,8 @@
   {
     "Name": "Intel Driver & Support Assistant (DSA)",
     "Id": "Intel.IntelDriverAndSupportAssistant",
-    "LocalFile": "Intel Driver & Support Assistant (2026-09-02).exe",
-    "DownloadUrl": "https://downloadmirror.intel.com/796792/Intel-Driver-and-Support-Assistant-Installer.exe",
+    "LocalFile": "Intel-Driver-Support.2026-9-2.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/Intel-Driver-Support.2026-9-2.exe",
     "ProcessorMatch": "Intel",
     "MatchKeys": ["Intel Driver & Support Assistant"],
     "MatchPaths": ["C:\\Program Files\\Intel\\Intel(R) Driver & Support Assistant"]
@@ -119,8 +154,8 @@
   {
     "Name": "AMD Software: Adrenalin Edition",
     "Id": "AMD.AMDSoftwareAdrenalinEdition",
-    "LocalFile": "AMD Software Adrenalin (2026-09-02).exe",
-    "DownloadUrl": "",
+    "LocalFile": "amd-software-adrenalin-edition.2026-9-2.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/amd-software-adrenalin-edition.2026-9-2.exe",
     "VideoMatch": "AMD|Radeon",
     "MatchKeys": ["AMD Software", "Adrenalin"],
     "MatchPaths": ["C:\\Program Files\\AMD\\CIM"]

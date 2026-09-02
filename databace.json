@@ -101,8 +101,8 @@
 {
     "Name": "NVIDIA App",
     "Id": "NVIDIA.NVIDIAApp",
-    "LocalFile": "NVIDIA App (2026-09-02).exe",
-    "DownloadUrl": "https://grupots.com/software/NVIDIA_App_Installer.exe",
+    "LocalFile": "NVIDIA.App.2026-09-02.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/NVIDIA.App.2026-09-02.exe",
     "VideoMatch": "NVIDIA|GeForce",
     "MatchKeys": ["NVIDIA App", "GeForce Experience"],
     "MatchPaths": ["C:\\Program Files\\NVIDIA Corporation"]

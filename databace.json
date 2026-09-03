@@ -143,13 +143,13 @@
     "MatchPaths": ["C:\\Program Files\\NVIDIA Corporation"]
   },
   {
-    "Name": "AMD Cleanup Utility",
-    "Id": "AMD.AMDCleanUpUtility",
-    "LocalFile": "AMD Cleanup Utility (2026-09-02).exe",
-    "DownloadUrl": "https://www2.ati.com/drivers/amdclearnuputility.exe",
+    "Name": "AMD Software: Adrenalin Edition",
+    "Id": "AMD.AMDSoftwareAdrenalinEdition",
+    "LocalFile": "amd-software-adrenalin-edition.2026-9-2.exe",
+    "DownloadUrl": "https://github.com/tesladog/automatic-driver-app-installer/releases/download/exe-files/amd-software-adrenalin-edition.2026-9-2.exe",
     "ProcessorMatch": "AMD",
-    "MatchKeys": ["AMD Software", "AMD Cleanup Utility"],
-    "MatchPaths": ["C:\\Program Files\\AMD"]
+    "MatchKeys": ["AMD Software", "Adrenalin"],
+    "MatchPaths": ["C:\\Program Files\\AMD\\CIM"]
   },
   {
     "Name": "AMD Software: Adrenalin Edition",
